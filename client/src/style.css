@@ -1,0 +1,39 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+  
+body {
+    background-color: lightgreen;
+}
+
+.enterfoods {
+    display: flex;
+}
+
+#entermacro {
+    padding-left: 5%;
+}
+
+#submitFood {
+    padding-top: 3.2%;
+    padding-left: 0.5%;
+}
+
+#foodTable {
+    padding-left: 40%;
+    padding-top: 3%;
+}
+
+th, td {
+    border:1px solid black;
+    font-size: 120%;
+}
+
+#shiftenterfoods {
+    padding-left: 20%;
+}
+
+#nutrienttotal {
+    display: none;
+}
